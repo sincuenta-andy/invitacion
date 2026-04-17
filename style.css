@@ -48,6 +48,10 @@ body{
     margin-top: 65%;
     width: 100%;
 }
-.tickcounter{
+
+.tickcounter {
+  cursor: default;
+}
+.tickcounter a{
     pointer-events: none;
 }
