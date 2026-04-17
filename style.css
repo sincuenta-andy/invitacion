@@ -49,9 +49,6 @@ body{
     width: 100%;
 }
 
-.tickcounter {
-  cursor: default;
-}
-.tickcounter a{
+.counter{
     pointer-events: none;
 }
