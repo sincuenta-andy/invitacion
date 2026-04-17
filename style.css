@@ -48,7 +48,3 @@ body{
     margin-top: 65%;
     width: 100%;
 }
-
-.counter{
-    pointer-events: none;
-}
