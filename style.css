@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #c7a9f0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-x: hidden;
+}
+
+.texto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    height: auto;
+    margin-bottom: 5%;
+}
+.texto img{
+    display: block;
+    width: 100%;
+    align-items: center;
+}
+.texto a{
+  width: 90%;
+  display: block;
+  padding-top: 6%;
+}
+
+.arriba{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+.arriba:first-child{
+    width: 100%;
+}
+.textoArriba{
+    position: absolute;
+    padding: 15%;
+    width: 110%;
+}
+.fecha{
+    margin-top: 65%;
+    width: 100%;
+}
