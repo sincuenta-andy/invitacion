@@ -17,7 +17,6 @@ body{
     align-items: center;
     width: 90%;
     height: auto;
-    margin-bottom: 5%;
 }
 .texto img{
     display: block;
@@ -63,4 +62,53 @@ img[src*="fotos 2"] {
 img[src*="fotos 3"] {
     margin-top: 6%;
     width: 45%;
+}
+img[src*="andy"] {
+    width: 30%;
+    margin-bottom: -5%;
+}
+img[src*="flores 1"] {
+    width: 40%;
+}
+img[src*="flores fin"] {
+    position: relative;
+}
+
+#countdown-container {
+    text-align: center;
+    margin: 40px 0 0 0;
+    color: white;
+    font-family: "Times New Roman", serif;
+    position: relative;
+}
+.titulo {
+    font-size: 20px;
+    margin-bottom: 15px;
+    letter-spacing: 1px;
+    color: #4a1f5c;
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+}
+#countdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: -5%;
+}
+.bloque {
+    text-align: center;
+}
+.bloque span {
+    font-size: 70px;
+    display: block;
+}
+.bloque p {
+    font-size: 15px;
+    margin: 0;
+    letter-spacing: 1px;
+}
+.separador {
+    font-size: 40px;
+    margin: 0 5px;
 }
