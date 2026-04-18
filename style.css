@@ -97,11 +97,11 @@ img[src*="flores fin"] {
     text-align: center;
 }
 .bloque span {
-    font-size: 50px;
+    font-size: 30px;
     display: block;
 }
 .bloque p {
-    font-size: 15px;
+    font-size: 10px;
     margin: 0;
     letter-spacing: 1px;
 }
