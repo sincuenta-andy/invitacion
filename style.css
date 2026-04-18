@@ -37,8 +37,8 @@ body{
     width: 100%;
 }
 
-.textoArriba{
-    position: relative;
+.textoArriba img{
+    position: absolute;
     padding-top: 18%;
     width: 75%;
 }
