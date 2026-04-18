@@ -35,14 +35,12 @@ body{
     align-items: center;
     height: 100%;
     width: 100%;
-    position: relative;
 }
 
 .textoArriba{
     position: absolute;
-    top: 18%;
+    padding-top: 18%;
     width: 75%;
-    z-index: 2;
 }
 .fecha{
     margin-top: 5%;
@@ -76,19 +74,12 @@ img[src*="flores fin"] {
     position: relative;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-}
 #countdown-container {
     text-align: center;
     margin: 40px 0 0 0;
     color: white;
     font-family: "Times New Roman", serif;
     position: relative;
-    z-index: 3;
-    transform: translateZ(0);
 }
 .titulo {
     font-size: 20px;
@@ -103,8 +94,7 @@ img {
     justify-content: center;
     align-items: center;
     gap: 10px;
-    width: 100%;
-    transform: translateZ(0);
+    margin-bottom: -5%;
 }
 .bloque {
     text-align: center;
