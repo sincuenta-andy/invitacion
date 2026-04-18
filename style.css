@@ -35,12 +35,11 @@ body{
     align-items: center;
     height: 100%;
     width: 100%;
-    position: relative;
 }
 
 .textoArriba{
     position: absolute;
-    top: 18%;
+    padding-top: 18%;
     width: 75%;
 }
 .fecha{
