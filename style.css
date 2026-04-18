@@ -38,7 +38,7 @@ body{
 }
 
 .textoArriba{
-    position: absolute;
+    position: relative;
     padding-top: 18%;
     width: 75%;
 }
