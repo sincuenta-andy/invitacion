@@ -64,23 +64,3 @@ img[src*="fotos 3"] {
     margin-top: 6%;
     width: 45%;
 }
-
-.contador-wrapper {
-    position: relative;
-    width: 80%;
-    margin: 3% 15%;
-}
-
-.contador {
-    width: 100%;
-    height: 200px;
-    border: none;
-}
-
-.bloqueo-touch {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-}
