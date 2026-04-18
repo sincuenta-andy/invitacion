@@ -6,9 +6,6 @@
 
 body{
     background-color: #c7a9f0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
 
 .texto{
