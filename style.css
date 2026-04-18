@@ -64,27 +64,3 @@ img[src*="fotos 3"] {
     margin-top: 6%;
     width: 45%;
 }
-
-.counter-container {
-  position: relative;
-  width: 80%;
-  max-width: 900px;
-  margin: 3% auto;
-}
-
-.tickcounter {
-  display: block;
-  height: 250px;
-}
-
-.counter-block {
-  position: absolute;
-  inset: 0; 
-  z-index: 9999;
-
-  pointer-events: all;     
-  touch-action: none;       
-}
-.counter-container {
-  position: relative;
-}
