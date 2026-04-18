@@ -92,7 +92,7 @@ img[src*="flores fin"] {
     align-items: center;
     gap: 10px;
     margin-bottom: -5%;
-    transform: scale(0.8);
+    transform: scale(0.5);
 }
 .bloque {
     text-align: center;
