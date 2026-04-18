@@ -92,16 +92,17 @@ img[src*="flores fin"] {
     align-items: center;
     gap: 10px;
     margin-bottom: -5%;
+    transform: scale(0.8);
 }
 .bloque {
     text-align: center;
 }
 .bloque span {
-    font-size: 30px;
+    font-size: 70px;
     display: block;
 }
 .bloque p {
-    font-size: 10px;
+    font-size: 15px;
     margin: 0;
     letter-spacing: 1px;
 }
