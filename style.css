@@ -85,3 +85,6 @@ img[src*="fotos 3"] {
   pointer-events: all;     
   touch-action: none;       
 }
+.counter-container {
+  position: relative;
+}
