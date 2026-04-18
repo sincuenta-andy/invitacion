@@ -83,6 +83,7 @@ img[src*="flores fin"] {
 }
 .titulo {
     font-size: 15px;
+    margin-top: -5px;
     margin-bottom: 15px;
     letter-spacing: 1px;
     color: #4a1f5c;
